@@ -4,7 +4,7 @@
 
 * Starta applikationen
 * Applikationen skriver nu ut fem olika alternativ på uträkningssätt
-* Du vill räkna med addition så du skriver in 1 & trycker på enter
+* Du vill räkna med subtraktion så du skriver in 2 & trycker på enter
 * Applikationen skriver nu ut att du ska fylla i det första talet
 * Skriv 100 & tryck på enter
 * Applikationen skriver nu ut att du ska fylla i det andra talet
