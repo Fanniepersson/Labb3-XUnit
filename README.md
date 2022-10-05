@@ -1,5 +1,11 @@
 # Labb3-XUnit
 
+Denna uppgift är ganska fri och går ut på att du ska bygga en enkelt applikation från grunden samtidigt som du tar fram unittester med XUnit samt tänker ut acceptanstester innan du skapar själva applikationen.
+
+
+
+
+
 ## Acceptanstester
 
 * Starta applikationen
